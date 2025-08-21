@@ -1,0 +1,32 @@
+📦 ✅ 10 More News Articles for Your Dataset
+📰 5 Real News Articles
+"UN Declares Access to Internet a Basic Human Right"
+The United Nations has passed a resolution declaring internet access a fundamental human right, pushing member nations to work on affordable and universal digital access.
+
+"Pfizer Submits New COVID Booster for FDA Approval"
+Pfizer has submitted its updated COVID-19 booster shot to the U.S. FDA for emergency approval. The booster targets newer variants of the virus and could be available by next month.
+
+"ISRO Launches Weather Monitoring Satellite Successfully"
+The Indian Space Research Organisation has launched a new satellite designed to track monsoon patterns and enhance agricultural planning in South Asia.
+
+"Germany Implements Free Public Transport for Students"
+Germany has passed a new bill providing free public transportation for all school and college students across the country, starting next academic year.
+
+"Apple Introduces AI Features in iOS 18"
+Apple’s WWDC event announced several new AI features in iOS 18, including on-device chat summaries, image generation, and private search.
+
+❌ 5 Fake News Articles
+"Drinking Cola Cures Diabetes, Claims Facebook Post"
+A viral Facebook post falsely claims that drinking a bottle of cola daily can cure diabetes by balancing sugar levels. No scientific basis supports this claim.
+
+"Moon Shakes Prove It’s Alive, Says Astrologer"
+A self-proclaimed astrologer said that recent tremors on the moon mean it’s 'alive and emotional.' NASA denied the statement as baseless.
+
+"Invisible Pill Makes You Lose 20kg in One Week"
+A trending health blog claims that a new ‘invisible pill’ can help people lose 20 kg in 7 days without exercise or diet. Medical experts have flagged this as fraudulent.
+
+"Government to Ban All Vegetables by 2026"
+A satirical website’s article claiming the government will ban vegetables by 2026 went viral, misleading many users before fact-checkers stepped in.
+
+"Alien Virus Found in Siberian Permafrost Melts Computers"
+A conspiracy blog states that a mysterious virus discovered in Siberia melts computer hardware when scanned. No credible evidence supports this claim.
