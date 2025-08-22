@@ -58,6 +58,6 @@ Frameworks: Streamlit (for deployment)
 
 Tools: Google Colab, Jupyter Notebook
 
-🙌 Acknowledgment
+# 🙌 Acknowledgment
 
 Special thanks to our guide, open-source datasets, Kaggle, Hugging Face, and NLTK for resources and tools that supported this project.
